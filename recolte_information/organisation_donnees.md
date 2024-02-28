@@ -30,6 +30,7 @@
 - Diplôme : **AEC NTL.2R**
 - Structure : [Cours](Grille_AEC_NTL2R.pdf)
 - Tarif du cursus complet : **13 550$ CAD/ Année**
+- Présentation d'un portfolio : **Oui**
 
 #### **Spécialisation** : Artiste de jeu vidéo 3D | Game Art
 
