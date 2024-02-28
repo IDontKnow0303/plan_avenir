@@ -28,7 +28,7 @@
 
 - Introduction : [Programme](https://www.isart.ca/programmes/programmes-courts/3d-art/)
 - Diplôme : **AEC NTL.2R**
-- Structure : [Cours](file:///C:/Users/annab/Downloads/Grille_AEC_NTL2R.pdf)
+- Structure : [Cours]()
 - Tarif du cursus complet : **13 550$ CAD/ Année**
 
 #### **Spécialisation** : Artiste de jeu vidéo 3D | Game Art
@@ -36,6 +36,6 @@
 - Introduction : [Programme](https://www.isart.ca/programmes/programmes-courts/artiste-3d-jeu-video/)
 - Diplôme : **Spécialisation AEC NTL.1D + RNCP Niveau.7**
 - Préalable(s) :  **AEC NTL.2R**
-- Structure : [Cours](file:///C:/Users/annab/Downloads/Grille_AEC_NTL1D.pdf)
+- Structure : [Cours](Grille_AEC_NTL1D.pdf)
 - Tarif du cursus complet : **13 950$** CAD/ Année
   
