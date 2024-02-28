@@ -14,4 +14,4 @@
 
 - Taux de placement : 80%
 - Dossier visuel : [Contenu du portfolio](https://www.nad.ca/fr/dossier-visuel-et-document-de-motivation)
-- 
+- Critères : [Reconnaissance des acquis](https://www.uqac.ca/de-docs/etudes-rac/tableau-rac-nad.pdf)
