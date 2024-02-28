@@ -18,3 +18,4 @@
 - Dossier visuel : [Contenu du portfolio](https://www.nad.ca/fr/dossier-visuel-et-document-de-motivation)
 - Critères : [Reconnaissance des acquis](https://www.uqac.ca/de-docs/etudes-rac/tableau-rac-nad.pdf)
 - Admission : [Information](https://www.uqac.ca/programme/6667-baccalaureat-en-creation-3d-pour-le-jeu-video/#conditions-admission)
+- Frais : [Coûts](https://www.nad.ca/fr/futurs-etudiants/frais-de-scolarite)
