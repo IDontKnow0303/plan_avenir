@@ -19,3 +19,23 @@
 - Critères : [Reconnaissance des acquis](https://www.uqac.ca/de-docs/etudes-rac/tableau-rac-nad.pdf)
 - Admission : [Information](https://www.uqac.ca/programme/6667-baccalaureat-en-creation-3d-pour-le-jeu-video/#conditions-admission)
 - Frais : [Coûts](https://www.nad.ca/fr/futurs-etudiants/frais-de-scolarite)
+
+### ISART Digital
+
+- Inscription : [Procédure](https://www.isart.ca/admissions/)
+
+#### Artiste 3D pour le cinéma et le jeu vidéo
+
+- Introduction : [Programme](https://www.isart.ca/programmes/programmes-courts/3d-art/)
+- Diplôme : **AEC NTL.2R**
+- Structure : [Cours](file:///C:/Users/annab/Downloads/Grille_AEC_NTL2R.pdf)
+- Tarif du cursus complet : **13 550$ CAD/ Année**
+
+#### **Spécialisation** : Artiste de jeu vidéo 3D | Game Art
+
+- Introduction : [Programme](https://www.isart.ca/programmes/programmes-courts/artiste-3d-jeu-video/)
+- Diplôme : **Spécialisation AEC NTL.1D + RNCP Niveau.7**
+- Préalable(s) :  **AEC NTL.2R**
+- Structure : [Cours](file:///C:/Users/annab/Downloads/Grille_AEC_NTL1D.pdf)
+- Tarif du cursus complet : **13 950$** CAD/ Année
+  
