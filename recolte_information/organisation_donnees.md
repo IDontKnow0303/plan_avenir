@@ -17,14 +17,27 @@
 
 **Avantages**
 
-- Introduction à **la modélisation 3D**
+- Introduction à **la modélisation 3D** (bénéfique à **l'impression 3D**)
 - Introduction à **l'animation 2D/3D**
 - Introduction à **Photoshop**
 - Moyen d'entrée à l'École NAD-UQAC
+- Possibilité d'intégrer le marché du travail
+- **Perspective d'avenir établie** : 91% (permet l'orientation vers les jeux vidéo)
+- Éléments à inclure dans un portfolio
+
+**Inconvénients**
+- Longue durée
+- Imposition de programmation et de conception sonore
+- N'offre pas la possibilité d'améliorer son art
 
 ### Arts visuels (Collège Montorency)
 
 [Grille de cours](cours_AV_montmorency.pdf)
+
+**Avantages**
+- Possibilité de perfectionner ses techniques en dessin et ses connaissances (bénéfique à la création de bande dessinée, soit **Webtoon**)
+- Éléments à inclure dans un portfolio
+- Courte durée
 
 ### Arts visuels (Collège Lionel-Groulx)
 
