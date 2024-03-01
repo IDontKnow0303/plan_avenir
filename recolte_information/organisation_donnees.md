@@ -8,6 +8,17 @@
 - Webtoon
 - **Impression 3D**
 
+
+## Parcours collégial
+
+### Collège Montmorency
+
+### Technique d'intégration multimédia
+
+[Grille de cours](
+
+
+
 ## Choix de programmes universitaires ou équivalences
 
 ### École NAD-UQAC (École des arts numériques, de l'animation et du design)
@@ -39,4 +50,7 @@
 - Préalable(s) :  **AEC NTL.2R**
 - Structure : [Cours](Grille_AEC_NTL1D.pdf)
 - Tarif du cursus complet : **13 950$** CAD/ Année
+
+
+
   
