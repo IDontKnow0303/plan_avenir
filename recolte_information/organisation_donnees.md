@@ -11,13 +11,17 @@
 
 ## Parcours collégial
 
-### Collège Montmorency
+### Technique d'intégration multimédia (Collège Montmorency)
 
-### Technique d'intégration multimédia
+[Grille de cours](cours_TIM.pdf)
 
-[Grille de cours](
+### Arts visuels (Collège Montorency)
 
+[Grille de cours](cours_AV_montmorency.pdf)
 
+### Arts visuels (Collège Lionel-Groulx)
+
+[Grille de cours](cours_AV_lionelgroulx.pdf)
 
 ## Choix de programmes universitaires ou équivalences
 
