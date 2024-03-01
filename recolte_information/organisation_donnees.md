@@ -15,6 +15,13 @@
 
 [Grille de cours](cours_TIM.pdf)
 
+**Avantages**
+
+- Introduction à **la modélisation 3D**
+- Introduction à **l'animation 2D/3D**
+- Introduction à **Photoshop**
+- Moyen d'entrée à l'École NAD-UQAC
+
 ### Arts visuels (Collège Montorency)
 
 [Grille de cours](cours_AV_montmorency.pdf)
