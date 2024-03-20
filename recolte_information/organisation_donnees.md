@@ -30,7 +30,7 @@
 - Imposition de programmation et de conception sonore
 - N'offre pas la possibilité d'améliorer son art
 
-### Arts visuels (Collège Montorency)
+### Arts visuels (Collège Montmorency)
 
 [Grille de cours](cours_AV_montmorency.pdf)
 
